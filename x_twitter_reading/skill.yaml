@@ -1,0 +1,5 @@
+name: "x_twitter_reading"
+title: "X（Twitter）読み取り"
+description: "X（Twitter）の公開投稿・スレッド・引用・X Articles を読むときに使う。公式URL（x.com / twitter.com）は直接 fetch せず、FxEmbed 系プロキシ（fxtwitter → fixupx → vxtwitter JSON の順）で取得する手順と出力ルール。"
+category: "Social and communication"
+include_in_prompt: true
